@@ -1,0 +1,18 @@
+{
+  "common": {
+    "serverError": "Server Error",
+    "recordNotFound": "Record Not Found",
+    "invalid": "{{{name}}} invalid",
+    "notFound": "{{{name}}} not found"
+  },
+  "auth": {
+    "notExistEmail" : "Email does not exist in system!",
+    "passwordInvalid": "passwordInvalid",
+    "passwordCurrentInvalid": "Current password invalid",
+    "tokenInvalid": "Token invalid"
+  },
+  "upload": {
+    "required": "Please select image to upload",
+    "invalidMediaUpload": "file accepted [png, jpg, gif, jpeg]"
+  }
+}
